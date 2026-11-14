@@ -19,6 +19,7 @@
 | [FiveM-ta-fishing](https://github.com/htani0817/FiveM-ta-fishing) | 釣りのスクリプト（Qbox）。釣りレベル、5段階のグレード、漁師 NPC の店と相場、ランキング |
 | [FiveM-ta-jobswitch](https://github.com/htani0817/FiveM-ta-jobswitch) | ジョブ切り替えのスクリプト（Qbox）。J キーで切り替え・出勤・退勤 |
 | [FiveM-ta-chattab](https://github.com/htani0817/FiveM-ta-chattab) | チャットで / コマンドを Tab キーで補完するスクリプト |
+| [FiveM-ta-dealer](https://github.com/htani0817/FiveM-ta-dealer) | 車・船・飛行機のディーラーのスクリプト（Qbox）。選んだ乗り物の実物をプレビュー、専用の空間で試乗、単色の塗装を選んで購入 |
 
 ### Windows アプリ
 
