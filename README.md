@@ -15,7 +15,7 @@
 | リポジトリ | 内容 |
 | --- | --- |
 | [FiveM-ta-movie-player](https://github.com/htani0817/FiveM-ta-movie-player) | ゲーム内で YouTube・Twitch の動画を視聴・共有するスクリプト。近くの人と再生位置を同期、街にスクリーンも置ける |
-| [FiveM-ta-arcade](https://github.com/htani0817/FiveM-ta-arcade) | ゲームセンターのスクリプト（Qbox）。自作の台と椅子のパチスロ「夜祭」と、台を置く管理画面 |
+| [FiveM-ta-arcade](https://github.com/htani0817/FiveM-ta-arcade) | ゲームセンターのスクリプト（Qbox）。自作の台と椅子のパチスロ「夜祭」、玉の物理計算つきのパチンコ「宵花火」と、台を置く管理画面 |
 | [FiveM-ta-fishing](https://github.com/htani0817/FiveM-ta-fishing) | 釣りのスクリプト（Qbox）。釣りレベル、5段階のグレード、漁師 NPC の店と相場、ランキング |
 | [FiveM-ta-jobswitch](https://github.com/htani0817/FiveM-ta-jobswitch) | ジョブ切り替えのスクリプト（Qbox）。J キーで切り替え・出勤・退勤 |
 | [FiveM-ta-chattab](https://github.com/htani0817/FiveM-ta-chattab) | チャットで / コマンドを Tab キーで補完するスクリプト |
