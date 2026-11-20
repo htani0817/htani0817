@@ -22,6 +22,7 @@
 | [FiveM-ta-dealer](https://github.com/htani0817/FiveM-ta-dealer) | 車・船・飛行機のディーラーのスクリプト（Qbox）。選んだ乗り物の実物をプレビュー、専用の空間で試乗、単色の塗装を選んで購入 |
 | [FiveM-ta-nametag](https://github.com/htani0817/FiveM-ta-nametag) | 頭上のネームタグのスクリプト（Qbox）。ラジアルメニューから設定、ID・名前・肩書・役職・配信中マークと色・大きさを本人が選び、保存前にプレビュー |
 | [FiveM-ta-nails](https://github.com/htani0817/FiveM-ta-nails) | ネイルサロンのスクリプト（Qbox）。10 本の指ごとに形・柄・色を選び、指先に自作の爪のモデルを付ける。施術中は手を上げて爪を見せる |
+| [FiveM-ta-radio](https://github.com/htani0817/FiveM-ta-radio) | 無線のスクリプト（Qbox・pma-voice）。表示名と無線番号を入れ、画面の右側に同じ番号の人の一覧。話している人は光り、倒れた人は赤くなる。自作の無線機のモデル付き |
 
 ### Windows アプリ
 
