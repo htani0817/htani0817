@@ -9,6 +9,7 @@
 | [mc-rest-api](https://github.com/htani0817/mc-rest-api) | サーバーの情報取得と操作を REST API（JSON）で行えるサーバー専用 Mod（NeoForge 26.2） |
 | [mc-server-manager](https://github.com/htani0817/mc-server-manager) | サーバーの管理画面をサーバーの中から配信するサーバー専用 Mod（mc-rest-api が必要） |
 | [mc-player-sync](https://github.com/htani0817/mc-player-sync) | インベントリ・経験値・体力などを MySQL / MariaDB で複数サーバーに同期する Bukkit / Paper プラグイン |
+| [mc-server-link](https://github.com/htani0817/mc-server-link) | 別々に建てたサーバー同士を、プロキシなしで行き来できるようにする Mod（NeoForge 26.2）。行き先が落ちたらロビーへつなぎ直す（β版） |
 
 ### FiveM
 
