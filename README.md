@@ -31,6 +31,7 @@
 | --- | --- |
 | [SoundDeck](https://github.com/htani0817/SoundDeck) | Windows 11 向けの音量ミキサー（アプリ別音量・出力先、プロファイル、ダッキング） |
 | [IslandBar](https://github.com/htani0817/IslandBar) | 画面の上端中央に、再生中の曲と通知を出す常駐アプリ（β版） |
+| [StreamStatus](https://github.com/htani0817/StreamStatus) | Twitch の配信タイトル・カテゴリ・タグをプリセットから一発で切り替えるアプリ（配信回数の自動挿入、告知文のコピー） |
 
 ### AWS
 
